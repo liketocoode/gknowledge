@@ -7,9 +7,10 @@
 <p align="center"><a href="README.md">English</a> · <a href="README.zh-CN.md">简体中文</a> · <a href="README.it.md">Italiano</a> · <a href="README.fr.md">Français</a> · <a href="README.pt-BR.md">Português (BR)</a> · <a href="README.es.md">Español</a> · <b>Bahasa Indonesia</b></p>
 
 <p align="center">
-  <b>El LLM Wiki de Karpathy como app nativa de GNOME.</b><br>
-  Arrastra tus documentos y obtén una wiki enlazada que un modelo mantiene al día.<br>
-  Sin conexión por defecto, sin clave de API, Markdown simple en disco, compatible con Obsidian.
+  <b>Wiki LLM Karpathy sebagai aplikasi GNOME native.</b><br>
+  Masukkan dokumen Anda. Dapatkan wiki yang saling terhubung dan selalu diperbarui oleh LLM.<br>
+  Aplikasi native GNOME. Secara default berjalan offline, menggunakan Markdown biasa di disk, dan kompatibel dengan Obsidian.<br>
+  Gunakan model AI pilihan Anda: model lokal, endpoint apa pun yang kompatibel dengan OpenAI, atau paket ChatGPT Anda sendiri.
 </p>
 
 <p align="center">
